@@ -2,14 +2,14 @@
     "buildCommand": "npm run build",
     "builds": [
         {
-            "src": "index.js",
+            "src": "build/index.js",
             "use": "@vercel/node"
         }
     ],
     "rewrites": [
         {
             "source": "/(.*)",
-            "destination": "index.js"
+            "destination": "build/index.js"
         }
     ]
 }
