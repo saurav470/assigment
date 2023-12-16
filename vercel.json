@@ -1,4 +1,6 @@
 {
+    "installCommand": "npm install",
+    "buildCommand": "npm run build",
     "builds": [
         {
             "src": "build/index.js",
