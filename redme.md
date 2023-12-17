@@ -51,10 +51,10 @@ Build a basic student management system API using ExpressJS. The system should h
 ## Project Setup:
 
 1. **Valid API URL:**
-   - [Your API URL here]
+   - [https://assigment-cmz7.onrender.com/]
 
 2. **API Documentation:**
-   - []
+   - [https://documenter.getpostman.com/view/31849477/2s9Ykn92e3]
 
 3. **ENV Variables:**
    - MONGODB_URL=mongodb+srv://devdatabaseuser:P6NWVIwPcxZFEHrx@cluster0.5s8l8uw.mongodb.net/assigmentTGHTech
