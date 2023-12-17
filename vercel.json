@@ -6,9 +6,9 @@
             "use": "@vercel/node"
         }
     ],
-    "rewrites": [
+    "routes": [
         {
-            "source": "/(.*)",
+            "src": "/(.*)",
             "destination": "/build/index.js"
         }
     ]
