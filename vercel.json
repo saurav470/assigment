@@ -1,8 +1,9 @@
-{"installCommand": "npm install && npm run build",
+{
+    "installCommand": "npm install && npm run build",
     "buildCommand": "npm start",
     "builds": [
         {
-            "src": "index.js",
+            "src": "build/index.js",
             "use": "@vercel/node"
         }
     ],
